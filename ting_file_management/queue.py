@@ -9,6 +9,9 @@ class Queue(AbstractQueue):
     def __init__(self):
         self.queue = list()
 
+    def __str__(self) -> str:
+        return str(self.queue)
+
     def __len__(self):
         return len(self.queue)
 
