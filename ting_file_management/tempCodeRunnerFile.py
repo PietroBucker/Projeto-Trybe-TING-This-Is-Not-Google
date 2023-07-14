@@ -1,4 +1,1 @@
-teste = set()
-teste.add(1)
-teste.add({1})
-print(teste)
+print(3 - len([9, 5]))
