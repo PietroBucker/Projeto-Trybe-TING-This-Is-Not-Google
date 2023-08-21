@@ -1,3 +1,5 @@
+# Projeto Trybe TING
+
 ### 1 - Implemente uma fila para armazenar os arquivos que serão lidos.
 
 - Preencha a classe `Queue`, presente no arquivo `queue.py` utilizando as estruturas vistas no módulo.
